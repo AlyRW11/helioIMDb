@@ -1,0 +1,23 @@
+body{
+    padding-top: 6em;
+}
+.firstrow{
+   padding-bottom: 1em;
+   }
+   .grey_bg{
+       background-color: #FBFBFB;
+   }
+
+a{
+   
+    color: #84B1D3;
+}
+a:hover{ text-decoration: none;}
+
+.gold{
+    color: #b19606;
+}
+.btn-warning{
+    background-color: #F3CE00;
+    color:#333;
+}
